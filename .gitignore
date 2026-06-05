@@ -1,0 +1,6 @@
+node_modules/
+temp/
+output/
+preview/
+*.json
+__pycache__/
